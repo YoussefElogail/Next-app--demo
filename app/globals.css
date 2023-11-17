@@ -105,3 +105,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.main-div{
+  background-color: rgb(67, 0, 67);
+  height: 100vh;
+}
